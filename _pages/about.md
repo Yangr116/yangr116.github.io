@@ -12,8 +12,7 @@ I'm a third year master student at SIGS, Tsinghua University, supervised by Prof
 I am furtunate to work closely with Prof. [Yansong Tang](https://andytang15.github.io) (THU), Dr. [Yibing Song](https://ybsong00.github.io) (Tencent), and Dr. [Lin Song](http://linsong.info) (Tencent). My current research interests lie in Computer Vision and Multimodal AI.
 
 ## News
-
-- Release an interested project ([GPT4Tools](https://github.com/StevenGrove/GPT4Tools)) to teach language models to use tools.
+- Released an interested project ([GPT4Tools](https://github.com/StevenGrove/GPT4Tools)) to teach language models to use tools.
 
 ## Publications
 
@@ -48,11 +47,11 @@ Neurocomputing, 2022 \
 
 ## Experiences
 
-- ### Tencent AI Lab (Jun. 2022 – Jun. 2023)
-  Researched on the Weakly-supervised Instance Segmentation, and Multimodal AI.
+- **Tencent AI Lab (Jun. 2022 – Jun. 2023)** \
+Researched on the Weakly-supervised Instance Segmentation, and Multimodal AI.
 
-- ### Bytedance Inc. (Jul. 2021 – Dec. 2021)
-  Researched on the Vision Transformer.
+- **Bytedance Inc. (Jul. 2021 – Dec. 2021)**\
+Researched on the Vision Transformer.
 
 ## Services
 
