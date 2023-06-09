@@ -1,0 +1,17 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /#publications
+
+  - title: "Educations"
+    url: /#educations    
+
+  - title: "Experiences"
+    url: /#experiences  
+    
+  - title: "Services"
+    url: /#services
+        
+  - title: "Others"
+    url: /#others
+    
