@@ -59,5 +59,5 @@ Conference Reviewer: ICASSP (2023), NeurIPS (2023)
 
 ## Others
 
-Now, I am puesuing a Ph.D. position, please feel free to contact me if you are interested.
+Now, I am pursuing a Ph.D. position, please feel free to contact me if you are interested.
 
