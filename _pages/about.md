@@ -18,6 +18,12 @@ I am furtunate to work closely with Prof. [Yansong Tang](https://andytang15.gith
 
 ### Conference Papers
 
+- **BoxSnake: Polygonal Instance Segmentation with Box Supervision** \
+**Rui Yang**, Lin Song, Yixiao Ge, Xiu Li \
+International Conference on Computer Vision (ICCV), 2023\
+[[PDF](https://arxiv.org/pdf/2303.11630.pdf)]
+[[Code](https://github.com/Yangr116/BoxSnake)]
+
 - **SSGD: A smartphone screen glass dataset for defect detection** \
 Haonan Han*, **Rui Yang** *, Shuyan Li, Runze Hu, Xiu Li \
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023\
