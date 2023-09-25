@@ -11,12 +11,18 @@ redirect_from:
 I'm a third year master student at SIGS, Tsinghua University, supervised by Prof. [Xiu Li](https://www.sigs.tsinghua.edu.cn/lx/main.htm).
 I am furtunate to work closely with Prof. [Yansong Tang](https://andytang15.github.io) (THU), Dr. [Yibing Song](https://ybsong00.github.io) (Tencent), and Dr. [Lin Song](http://linsong.info) (Tencent). My current research interests lie in Computer Vision and Multimodal AI.
 
-## News
-- Released an interested project ([GPT4Tools](https://github.com/StevenGrove/GPT4Tools)) to teach language models to use tools.
+<!-- ## News
+- Released an interested project ([GPT4Tools](https://github.com/StevenGrove/GPT4Tools)) to teach language models to use tools. -->
 
 ## Publications
 
 ### Conference Papers
+
+- **GPT4Tools: Teaching Large Language Model to Use Tools via Self-Instruction** \
+**Rui Yang**, Lin Song, Yanwei Li, Sijie Zhao, Yixiao Ge, Xiu Li, Ying Shan \
+Advances in Neural Information Processing Systems (NeurIPS), 2023\
+[[PDF](https://arxiv.org/pdf/2305.18752.pdf)]
+[[Code](https://github.com/AILab-CVC/GPT4Tools)]
 
 - **BoxSnake: Polygonal Instance Segmentation with Box Supervision** \
 **Rui Yang**, Lin Song, Yixiao Ge, Xiu Li \
@@ -63,7 +69,7 @@ Researched on the Vision Transformer.
 
 Conference Reviewer: ICASSP (2023), NeurIPS (2023)
 
-## Others
+<!-- ## Others
 
-Now, I am pursuing a Ph.D. position, please feel free to contact me if you are interested.
+Now, I am pursuing a Ph.D. position, please feel free to contact me if you are interested. -->
 
